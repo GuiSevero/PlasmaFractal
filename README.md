@@ -51,8 +51,9 @@ Resultados:
 Bibliografia:
 http://www.ic.sunysb.edu/Stu/jseyster/plasma/
 
-Algoritmo para Gerar o Plasma
-------
+### Algoritmo para Gerar o Plasma
+
+
 ```c
 /*
   Função que aplica o algoritmo do Fractal de Plasma
