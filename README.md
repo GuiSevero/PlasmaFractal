@@ -36,9 +36,10 @@ de cinza. Também foi aplicado o conceito de rugosidade para gerar as nuvens, ma
 não;
 
 Dependências
-** C++ Compiler - http://www.bloodshed.net/devcpp.html
-** OpenGL - http://www.opengl.org/
-** Glut Toolkit - http://www.opengl.org/resources/libraries/glut/
+
++ C++ Compiler - http://www.bloodshed.net/devcpp.html
++ OpenGL - http://www.opengl.org/
++ Glut Toolkit - http://www.opengl.org/resources/libraries/glut/
 
 Resultados:
 
