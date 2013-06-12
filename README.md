@@ -42,7 +42,9 @@ Dependências
 
 Resultados:
 
-
+![Figura 01](images/figura01.gif "Figura 01")
+![Figura 02](images/figura02.gif "Figura 02")
+![Figura 03](images/figura03.gif "Figura 03")
 
 
 Bibliografia:
