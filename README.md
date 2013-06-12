@@ -1,5 +1,3 @@
-Computação Evolutiva - Trabalho #2
-=========
 ## UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL
 #### INF01037 - Computação Evolutiva (Dante Barone).
 ---------------
