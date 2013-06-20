@@ -9,7 +9,7 @@
 
 ## Implementação de um fractal para geração de céu nublado
 ### O algoritmo
-O trabalho desenvolvido foi um programa baseado no algoritmo de fractal de plasma 
+O trabalho desenvolvido foi um programa baseado no algoritmo de fractal de plasma, feito por Justin Seyster,
 para gerar texturas semelhantes as nuvens que encontramos no céu nublado.
 O algoritmo de plasma se baseia num grid quadrado onde cada ponta possui um valor 
 de cor. 
@@ -32,6 +32,12 @@ Para a implementação, em especial, do gerador de nuvens, as cores dos vértice
 iniciais foram geradas aleatóriamente, vale destacar também que a imagem final será em tons 
 de cinza. Também foi aplicado o conceito de rugosidade para gerar as nuvens, mais suaves ou 
 não;
+
+![Step 01](images/step1.PNG "Step 01")
+![Step 02](images/step2.PNG "Step 02")
+![Step 03](images/step3.PNG "Step 03")
+![Step 04](images/step4.PNG "Step 04")
+
 
 Dependências
 
