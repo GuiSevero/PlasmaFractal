@@ -34,8 +34,11 @@ de cinza. Também foi aplicado o conceito de rugosidade para gerar as nuvens, ma
 não;
 
 ![Step 01](images/step1.PNG "Step 01")
+<br>
 ![Step 02](images/step2.PNG "Step 02")
+<br>
 ![Step 03](images/step3.PNG "Step 03")
+<br>
 ![Step 04](images/step4.PNG "Step 04")
 
 
